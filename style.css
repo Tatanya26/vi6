@@ -1,0 +1,433 @@
+body {
+    font-family: monospace;
+    background-color: #F7F6F6;
+    margin: -30px 0px;
+    color: #203F54;
+}
+.polosa {
+    margin: 0px 680px 0px 430px;
+        height: 25px;
+    border-bottom: 1px solid #508EBF;
+}
+.polosa2 {
+    margin: 60px 25px 0px 430px;
+    height: 25px;
+    border-top: 1px solid #508EBF;
+}
+.nav {
+    background-color: #203F54;
+    padding: 25px 35px 0px 35px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 340px;
+    z-index: 1;
+}
+.logo {
+    float: left;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+.nav h1 {
+    font-family: serif;
+    font-weight: lighter;
+    color: #DC97A5;
+    font-size: 32px;
+    text-align: right;
+    width: 270px;
+    height: 83px;
+}
+.nav article {
+    border-bottom: 1px solid #F7F6F6;
+}
+.nav nav a{
+    text-decoration: none;
+    color: #F7F6F6;
+    display: block;
+    margin: 25px 0px 25px 0px;
+    font-size: 25px;
+    transition: 0.2s;
+}
+.nav nav a:hover {
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+.nav nav a:focus {
+    text-shadow: 1px 1px 10px #F7F6F6;
+}
+
+.osoba {
+    font-weight: bold;
+     color: #CCDBEA;
+}
+header {
+    margin: 0px;
+    background-color: #DC97A5;
+            background: url('https://learn.logikaschool.com/uploads/student/2887252/6647810480386.jpg') no-repeat 50% 50%;
+            background-size: cover;
+            font-family: sans-serif;
+            height: 140px;
+}
+header h1 {
+    color: #203F54;
+    text-align: right;
+    font-style: italic;
+    padding: 50px 40px;
+}
+main {
+    margin: 25px 25px -200px 430px;
+          font-family: serif;
+}
+
+main p {
+    font-size: 16px;
+    color: #203F54;
+    text-align: center;
+}
+
+
+
+    .img1 {
+    position: absolute;
+    top: 132px;
+    right: 0px;
+    width: 650px;
+    }
+
+    main h1 {
+        position: absolute;
+        right: 675px;
+        color: #8A6449;
+        font-size: 45px;
+        text-align: right;
+    }
+
+    main h2 {
+        position: relative;
+        top: 125px;
+        font-size: 35px;
+    }
+    .list {
+        position: absolute;
+        top: 360px;
+    }
+    .list p, .list2 p, .list3 p {
+        margin: 5px;
+        text-align: left;
+    }
+
+    .h2-2 {
+        top: 300px;
+    }
+
+    .list2 {
+        position: absolute;
+        top: 600px;
+    }
+
+    .h2-3 {
+        position: absolute;
+        top: 660px;
+    }
+
+    .list3 {
+        position: absolute;
+        top: 740px;
+    }
+
+    .polosa3 {
+        border-top: 1px solid #508EBF;
+        margin-right: 660px;
+        margin-top: 755px;
+    }
+
+    .img2 {
+        width: 410px;
+        position: relative;
+        right: 20px;
+        display: block;
+    }
+
+    .img3 {
+        width: 396px;
+        position: relative;
+        right: 20px;
+        display: block;
+        top: -377px;
+    }
+
+    .img4 {
+        width: 374px;
+        height: 398px;
+        position: relative;
+        top: -775px;
+        left: 376px;
+        display: block;
+    }
+
+    .img5 {
+        width: 395px;
+        height: 398px;
+        position: relative;
+        top: -1173px;
+        left: 750px;
+        display: block;
+    }
+
+    .img6 {
+        width: 380px;
+        position: relative;
+        top: -370px;
+        left: 390px;
+    }
+
+    .price {
+        position: absolute;
+        top: 1240px;
+        left: 1230px;
+    }
+
+    .price p, .price2 p, .price3 p {
+        text-align: left;
+        margin: 0px;
+        color: #A17555;
+        font-size: 24px;
+    }
+
+    .head {
+        color: #8A6449;
+        font-size: 136px;
+        position: absolute;
+        left: 1225px;
+        top: 1348px;
+        font-weight: 100;
+    } 
+
+    .cost {
+        position: absolute;
+        left: 1238px;
+        top: 1615px;
+    }
+
+    .cost p, .cost2 p, .cost3 p {
+        margin: -5px;
+        color: #203F54;
+        font-size: 50px;
+        text-align: left;
+    }
+
+    .polosa4 {
+    border-top: 1px solid #508EBF;
+    position: relative;
+    top: -1168px;
+    }
+
+    .img7 {
+        width: 375px;
+        margin-left: -20px;
+        position: relative;
+        top: -1165px;
+    }
+
+    .img8 {
+        width: 790px;
+        position: relative;
+        top: -1629px;
+        left: 355px;
+    }
+
+    .img9 {
+        width: 375px;
+        margin-left: -20px;
+        position: relative;
+        top: -1620px;
+    }
+
+    .half {
+        font-size: 136px;
+        color: #8A6449;
+        position: absolute;
+        font-weight: 100;
+        top: 2615px;
+        left: 810px;
+    }
+
+    .cost2 {
+        position: absolute;
+        top: 2873px;
+        left: 810px;
+    }
+
+    .price2 {
+        position: absolute;
+        top: 3010px;
+        left: 810px;
+    }
+
+    .polosa5 {
+    border-top: 1px solid #508EBF;
+    position: relative;
+    top: -1620px;
+    }
+
+    .img10 {
+        position: absolute;
+        top: 3292px;
+        margin-left: -20px;
+        width: 1165px;
+    }
+    .img11 {
+        width: 430px;
+        position: absolute;
+        right: 0px;
+        top: 3812px;
+    }
+    
+
+    .full {
+        color: #8A6449;
+        font-size: 136px;
+        font-weight: 100;
+        position: absolute;
+        top: 3740px;
+        right: 490px;
+    }
+
+    .cost3 {
+        position: absolute;
+        top: 3996px;
+        right: 550px;
+    }
+
+    .price3 {
+        position: absolute;
+        top: 4130px;
+        right: 640px;
+    }
+
+    .polosa6 {
+        border-top: 1px solid #508EBF;
+        position: relative;
+        bottom: 465px;
+        margin-right: 450px;
+    }
+
+    .new {
+        font-family: cursive;
+        color: #CCDBEA;
+        text-shadow: 4px 4px 0 #DC97A5;
+        font-size: 32px;
+        text-align: left;
+        font-style: italic;
+        font-weight: bol;
+        position: absolute;
+        top: 4450px;
+        line-height: 30px;
+    }
+
+    .social2 img {
+        width: 80px;
+        border-radius: 50%;
+        margin-left: 50px;
+        transition: 0.3s;
+    }
+
+    .social2 {
+        margin-left: -20px;
+        position: absolute;
+        top: 4575px;
+    }
+
+    .social2 img:hover {
+        transition: 0.3s;
+        transform: scale(1.2) translateX(10px);
+    }
+    
+
+
+.top {
+    color: #DC97A5;
+    font-size: 16px;
+    position: absolute;
+    left: 430px;
+    bottom: -3975px;
+    text-decoration: none;
+        transition: 0.5s;
+        font-family: monospace;
+}
+.top:hover {
+    transition: 0.5s;
+    color: #be6677;
+}
+footer {
+    background-color: #508EBF;
+    padding: 20px 15px 15px 420px;
+    height: 154px;
+}
+footer h1 {
+    color: #F7F6F6;
+    font-family: serif;
+    font-size: 20px;
+    font-weight: lighter;
+    margin: 0px;
+}
+.footer {
+    position: absolute;
+    margin-top: 15px;
+    font-size: 10px;
+}
+.footer h3 {
+    color: #F7F6F6;
+    font-weight: lighter;
+    margin: 0px;
+    font-size: 11px;
+}
+footer article {
+    position: absolute;
+    width: 127px;
+}
+.Lisa {
+    left: 140px;
+}
+.etc {
+    left: 299px;
+    margin-top: 16px;
+}
+footer a {
+    color: #CCDBEA;
+    text-decoration: none;
+    display: block;
+    margin-top: 10px;
+}
+footer a:hover {
+    text-decoration: underline;
+}
+.I {
+    border-left: 1px solid #CCDBEA;
+    padding-left: 10px;
+}
+.social img {
+    width: 26px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+.social img:hover {
+    transition: 0.3s;
+    border: 5px double #F7F6F6;
+}
+.social {
+    position: absolute;
+    left: 810px;
+    top: 80px;
+        display: inline-flex;
+}
+footer p {
+    width: 200px;
+    font-size: 10px;
+    position: absolute;
+    color: #DC97A5;
+    left: 935px;
+    bottom:15px;
+}
